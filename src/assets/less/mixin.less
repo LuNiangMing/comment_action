@@ -1,0 +1,21 @@
+
+
+//flex布局水平垂直居中
+.flex-center(){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row nowrap;
+}
+.loop(@counter) when (@counter > 0) {
+  .loop((@counter - 1));    // next iteration
+  width: (10px * @counter); // code for each iteration
+}
+
+.div {
+  .loop(5); // launch the loop
+}
+
+
+
+

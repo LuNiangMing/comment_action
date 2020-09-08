@@ -1,0 +1,23 @@
+{
+  "id": "2048408",
+  "name": "iconfont5",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "739043",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "10043860",
+      "name": "Down",
+      "font_class": "Down",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
